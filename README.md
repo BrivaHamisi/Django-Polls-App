@@ -1,8 +1,6 @@
 # Django-Polls-App
 This is a simple Polls App made with Django using the Django Documentation for puropses of learning by reading and mastering the Content of the Django documentation
 
-This is the Link to the Django Documentaion: https://docs.djangoproject.com/en/4.1/intro/tutorial01/
-
 ## The Homepage with the Question Link
 ![Screenshot from 2022-09-16 00-47-01](https://user-images.githubusercontent.com/111923574/190515422-2508dfb8-c609-42d6-93b9-1d08f91a5bae.png)
 
